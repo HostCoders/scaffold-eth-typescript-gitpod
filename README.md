@@ -1,5 +1,8 @@
 # 🏗 Scaffold-Eth Typescript
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/HostCoders/scaffold-eth-typescript-gitpod/
+)
+
 ## Typescript
 
 This is the typescript repo of scaffold-eth and it uses `hardhat` and `vite`. The directories that you'll use are:
